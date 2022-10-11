@@ -8,8 +8,6 @@ Pizzetti is an android app that allows you to make your custom pizza, look up th
 
 ## Screenshots
 
-<img src="app/src/main/res/drawable/logo.gif" alt="ArchiTecture logo"/>
-
 <table>
   <tr>
    <td><img src="app/src/main/res/drawable/screenshot1.png" height=480 alt="screenshot"/> </td>
