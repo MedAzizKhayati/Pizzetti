@@ -7,22 +7,6 @@
 
  <img src="app/src/main/res/drawable/logo.gif" alt="ArchiTecture logo"/>
 
-    
-## Other useful features
-- Dependency injection (with [Hilt](http://google.github.io/hilt/))
-- Reactive programming with [Kotlin Flows](https://kotlinlang.org/docs/reference/coroutines/flow.html)
-- Google [Material Design](https://material.io/blog/android-material-theme-color) library
-- Margins and Insets with [Insetter](https://chrisbanes.github.io/insetter/)
-- Logging (with [Timber](https://github.com/JakeWharton/timber))
-- Android architecture components to share ViewModels during configuration changes
-- Edge To Edge Configuration
-- Resource defaults
-    - themes.xml - app themes
-    - themes.xml (v29) - app themes (for better edgeToEdge)
-    - colors.xml - colors for the entire project
-    - styles.xml - widget styles 
-    - styles-text.xml - text appearances
-
 # Getting started
 
 ### Script 
