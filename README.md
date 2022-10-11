@@ -1,7 +1,5 @@
 ## Pizzetti
 
-<img src="app/src/main/res/drawable/logo.gif" alt="Project logo"/>
-
 [![test](https://github.com/blocoio/android-template/workflows/test/badge.svg?branch=master)](https://github.com/blocoio/android-template/actions?query=workflow%3Atest+branch%3Amaster)
 [![lint](https://github.com/blocoio/android-template/workflows/lint/badge.svg?branch=master)](https://github.com/blocoio/android-template/actions?query=workflow%3Alint+branch%3Amaster)
 
@@ -54,6 +52,3 @@ And you're ready to start working on your new app.
   worrying when to turn it on. We do recommend you to check [Can I drop Jetifier?](https://github.com/plnice/can-i-drop-jetifier) 
   when expanding the template.
 - Android Template contains `.github/workflows` for lint check and unit testing. You can easily take this project worflow and repurpose it with a few path changes, you can also find a commented example in test.yml for Instrumentation Testing and CodeCoverage that we advice to keep a clean project, you will however need to replace the secret keys with your own.
-
-# More
-If you want to know more you can check our [blog post](https://www.bloco.io/blog/2020/android-app-starter-update).
